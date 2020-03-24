@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/dubbo-learning/dubbo-learning-person-service-provider1/dubbo-learning-person-service-provider1.iml" filepath="$PROJECT_DIR$/dubbo-learning/dubbo-learning-person-service-provider1/dubbo-learning-person-service-provider1.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-learning/dubbo-learning-person-service-provider2/dubbo-learning-person-service-provider2.iml" filepath="$PROJECT_DIR$/dubbo-learning/dubbo-learning-person-service-provider2/dubbo-learning-person-service-provider2.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-learning/dubbo-learning-person-service-provider3/dubbo-learning-person-service-provider3.iml" filepath="$PROJECT_DIR$/dubbo-learning/dubbo-learning-person-service-provider3/dubbo-learning-person-service-provider3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/framework-learning.iml" filepath="$PROJECT_DIR$/framework-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/framework-learning.iml" filepath="$PROJECT_DIR$/.idea/framework-learning.iml" />
     </modules>
   </component>
 </project>
