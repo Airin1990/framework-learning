@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/computer-network/pom.xml" />
+        <option value="$PROJECT_DIR$/datastructure_algorithm/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/jdk_jvm_juc-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/nosql-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/orm-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/rdbms-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/tomcat-9.0.30-source/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper-learning/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
