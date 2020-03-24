@@ -28,7 +28,7 @@
 
   - [简单了解类文件结构](gitbook_dev/jdk_jvm_juc-learning/简单了解类文件结构.md)
   
-  - [类的生命周期(类加载)](gitbook_dev/jdk_jvm_juc-learning/类的生命周期(类加载).md)
+  - [类的生命周期](gitbook_dev/jdk_jvm_juc-learning/类的生命周期.md)
  
   - [JVM常量池](gitbook_dev/jdk_jvm_juc-learning/JVM常量池.md)
   
