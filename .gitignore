@@ -1,3 +1,4 @@
+
 springmvc-learning/HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -32,7 +33,5 @@ build/
 .mvn/
 DubboLearningPersonServiceConsumerApplication.java
 DubboLearningPersonServiceProviderApplication.java
-
-### gitbook
 
 _book/
