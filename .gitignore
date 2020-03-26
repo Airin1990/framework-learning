@@ -35,3 +35,4 @@ DubboLearningPersonServiceConsumerApplication.java
 DubboLearningPersonServiceProviderApplication.java
 
 _book/
+node_modules/
